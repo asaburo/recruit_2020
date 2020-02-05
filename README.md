@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/1719765/73834925-e7651880-484f-11ea-8e06-a733e00f8519.png" alt="アサブロ ロゴ" title="アサブロ ロゴ" width="400">
+</div>
+
 # アサブロ 2020年冬季 求人
 
 ## アサブロ社とは？
